@@ -1,3 +1,5 @@
+require 'rspec'
+
 require_relative '../lib/factorial'
 
 describe "Factorial" do
