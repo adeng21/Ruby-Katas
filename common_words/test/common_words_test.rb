@@ -1,3 +1,5 @@
+require 'rspec'
+
 require_relative '../lib/common_words'
 
 describe 'common words' do
